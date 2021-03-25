@@ -1,0 +1,40 @@
+.work-component {
+  padding-left: 1rem;
+}
+
+.work-header-text {
+  font-size: 2rem;
+}
+
+.work-desc-text {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.project-component {
+  margin: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card {
+  /* display: flex;
+  flex-direction: column; */
+  margin: 1rem;
+  padding: 1rem;
+  width: 70%;
+  /* border: 2px solid gray; */
+  box-shadow: -2.5px 2.5px 2px gray;
+}
+
+.project-title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.project-description {
+}
+
+.project-link {
+  text-decoration: none;
+}

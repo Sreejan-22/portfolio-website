@@ -1,0 +1,28 @@
+.intro-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6rem;
+}
+
+.intro-name,
+.intro-desc,
+.work-btn {
+  padding-left: 1rem;
+}
+
+.intro-name {
+  font-size: 3rem;
+}
+
+.intro-desc {
+  font-size: 2.5rem;
+}
+
+.intro-img-container {
+  padding-right: 2rem;
+}
+
+/* .intro-img {
+  height: 20rem;
+  width: 30rem;
+} */
